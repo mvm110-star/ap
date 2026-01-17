@@ -408,16 +408,13 @@ li {
 }
 .fotosmalarx {   
     float: right;           
-    width: 50px;           
-    margin-left: 20px;
-    margin-top: 300px;      
+    width: 350px;           
+    margin-left: 20px; 
     text-align: center;
-    margin-top: 0px;
-    padding-right: 0px !important;
 }
 
 .fotosmalarx img {
-    width:42%;            
+    width:155%;            
     height: auto;           
     border-radius: none;     
     border: none;
@@ -575,4 +572,5 @@ li {
         width: 100%;
         margin-left: 0;
     }
+
 }
